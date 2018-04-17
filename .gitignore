@@ -1,0 +1,8 @@
+.DS_Store
+models/
+.ipynb_checkpoints/
+__MACOSX
+__pycache__/
+MODEL_CHANGELOG.txt
+CODEOWNERS
+data/
